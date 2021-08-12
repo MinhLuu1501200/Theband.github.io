@@ -391,9 +391,11 @@ input[value="SEND"]{
     object-fit: cover;
 }
 .footer{
+    display: block;
     text-align: center;
     margin: 0 auto;
     padding: 64px 16px;
     font-size: 19px;
     color: rgba(0, 0, 0, 0.3);
+   
 }
